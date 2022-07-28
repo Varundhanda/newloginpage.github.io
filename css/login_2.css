@@ -1,0 +1,125 @@
+
+.background {
+   background-color: black;
+    background-image: url("wallpaperflare.com_wallpaper.jpg");
+    background-repeat: no-repeat;
+    height: 65vh;
+    width: 60vw;
+    padding-top: 169px;
+    margin-left: 200px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.struc {
+    background: linear-gradient(to right rgba(143, 18, 18, 0.886) rgb(82, 82, 179) rgb(1, 1, 67));
+    height: 52vh;
+    width: 16vw;
+    margin-left: 20vw;
+    padding-top: 6vh;
+    border-radius: 10px;
+}
+
+.str:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: none;
+}
+.header {
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+    font-size: 11px;
+}
+
+.username {
+    margin-left: 2.5vw;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: x-small;
+    color: grey;
+}
+
+.name {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 12vw;
+    padding-bottom: 1vh;
+    font-size: x-small;
+    opacity: .5;
+    background: none;
+}
+
+.password {
+    margin-left: 2.5vw;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: x-small;
+    color: grey;
+}
+
+.pass {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 12vw;
+    padding-bottom: 1vh;
+    font-size: x-small;
+    opacity: 0.5;
+    background: none;
+}
+
+.forget {
+    margin-left: 8vw;
+}
+
+.login {
+    margin-top: 5vh;
+    margin-left: 2vw;
+    color: grey;
+}
+
+.login_b {
+    height: 3vh;
+    width: 12vw;
+    border-radius: 15px;
+    border: none;
+    /* background: linear-gradient(to right, rgb(66, 231, 220), rgb(231, 134, 239), rgb(226, 2, 246)); */
+    background: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: x-small;
+    color: black;
+    font-weight: bold;
+}
+
+.signup{
+    margin-top: 7vh;
+    margin-left: 110px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: x-small;
+    color: grey;
+}
+.logo{
+   
+    margin-left: 5vw;
+    margin-top: 2vh;
+    color: grey;
+    
+}
+.facebook{
+    height: 3vh;
+    width: 1.5vw;
+    border-radius: 20px;
+}
+.twitter{
+    height: 3vh;
+    width: 1.5vw;
+    border-radius: 20px;
+}
+.google{
+    height: 3vh;
+    width: 1.5vw;
+}
+.footer{
+    margin-top: 5vh;
+    margin-left: 6vw;
+    font-size: x-small;
+    color: grey;
+}
+.s{
+    margin-left: 1vw;
+}
